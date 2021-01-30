@@ -29,6 +29,7 @@
     "prettier"
   ],
   "rules": {
+    "import/no-duplicates": "off",
     "no-use-before-define": "off",
     "prettier/prettier": "error",
     "import/extensions": [
